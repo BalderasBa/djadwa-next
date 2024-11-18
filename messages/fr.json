@@ -1,0 +1,7 @@
+{
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, fr {Français} en {Anglais} ar {Arabe} other {Unknown}}"
+  },
+  "hello": "Bonjour"
+}
